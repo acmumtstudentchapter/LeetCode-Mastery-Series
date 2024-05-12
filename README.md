@@ -9,7 +9,7 @@ The LeetCode Mastery Series is designed to elevate your coding skills to the nex
 3. **Data Structures and Algorithms:** Dive deep into various data structures and algorithms commonly encountered in technical interviews.
 4. **Blind 75 Problems:** Tackle the Blind 75 LeetCode problems, a curated list of high-frequency interview questions.
 5. **Optimal Solutions:** Participants will collaboratively solve LeetCode problems during sessions, and the optimal solutions will be pushed to this repository.
-6. **Roadmap of Topics:** [Click here to view the roadmap of topics and problems covered in each session.]()
+6. **Roadmap of Topics:** The roadmap of topics and problems covered in each session include Arrays and Hashing, Stack, Two Pointers etc. [Click here to see the full roadmap!](https://github.com/acmumtstudentchapter/LeetCode-Mastery-Series/blob/main/roadmap.jpg)
 
 ## What to Expect:
 - **Interactive Sessions:** Engage in interactive sessions where participants work together to solve LeetCode problems.
@@ -17,7 +17,7 @@ The LeetCode Mastery Series is designed to elevate your coding skills to the nex
 - **Certificates:** Certificates will be awarded to participants upon completion of the series.
 
 ## How to Get Involved:
-1. **Register:** Secure your spot by registering for the LeetCode Mastery Series. [Click here to register](https://forms.gle/VYC5gM684ec5SPmk8)
+1. **Register:** Secure your spot by registering for the LeetCode Mastery Series. [Click here to register!](https://forms.gle/VYC5gM684ec5SPmk8)
 2. **Join Sessions:** Attend sessions every Tuesday and Friday to participate in problem-solving activities.
 3. **Contribute:** Contribute to this repository by submitting optimal solutions to LeetCode problems discussed during sessions.
 
